@@ -1,0 +1,1 @@
+C:\Users\Koya\Desktop\SVN\Local\Tetris\v1\trunk\Tetris\Tetris\TetrisContent\obj\x86\Debug\TetrisContent.contentprojResolveAssemblyReference.cache
